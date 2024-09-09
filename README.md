@@ -1,7 +1,7 @@
 # 4901 Captstone-2024
 Group Members:
   Aaron Jones,
-  Maria Gonzolez,
+  Maria Gonzalez,
   Micheal Diaz,
-  Montrol Coleman,
-  Nathen Paul
+  Montral Coleman,
+  Nathan Paul
